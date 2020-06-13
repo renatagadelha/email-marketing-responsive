@@ -15,6 +15,7 @@ I tested this template using [AlliN sending tool](https://allin.com.br/) looking
 - CSS inline
 - CSS Font face
 - CCS Media screen
+- Las imágenes originales utilizadas en este proyecto son de [Freepik](https://www.freepik.com/) 
 
 ## To do
 
