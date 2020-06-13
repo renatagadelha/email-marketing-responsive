@@ -7,7 +7,7 @@ This is a responsive e-mail template.
 Clone the project. 
 The main files is `responsive_01.html`.
 The images and the fonts need to be hosted somewhere. :)
-I tested this template using [AlliN sending tool](https://allin.com.br/) and tested the final result in Outlook 2016, outlook.com and gmail.
+I tested this template using [AlliN sending tool](https://allin.com.br/) looking the final result in Outlook 2016, outlook.com and gmail.
 
 ## This project uses
 
