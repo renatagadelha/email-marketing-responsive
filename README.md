@@ -21,4 +21,6 @@ I tested this template using [AlliN sending tool](https://allin.com.br/) looking
 
 - Review the spanish text.
 
+## Preview
+
 ![Preview E-mail](./images/responsive_01.jpg)
